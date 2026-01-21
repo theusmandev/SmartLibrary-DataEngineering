@@ -1,0 +1,10 @@
+CREATE DATABASE SmartLibraryDB;
+GO
+
+USE SmartLibraryDB;
+GO
+
+SELECT DB_NAME();
+
+
+
